@@ -1,0 +1,9 @@
+Greg's Notes From Class One
+===========================
+
+1. Create Repo
+2. Clone
+3. Move to Desktop
+4. Do Work
+5. Save Work in Repo
+6. Open Github....

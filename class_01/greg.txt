@@ -6,4 +6,10 @@ Greg's Notes From Class One
 3. Move to Desktop
 4. Do Work
 5. Save Work in Repo
-6. Open Github....
+
+6. Open Github Desktop
+7. Click on Uncommited Changes tab
+8. Write commit message
+9. Click on Commit to master
+
+

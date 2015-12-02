@@ -1,12 +1,22 @@
-Greg's Notes From Class One
-===========================
+#Greg's Notes From Class One
 
-1. Create Repo
-2. Clone
-3. Move to Desktop
-4. Do Work
-5. Save Work in Repo
-6. Open Github Desktop
-7. Click on Uncommited Changes tab
-8. Write commit message
-9. Click on Commit to master
+##Setting Up A New Repository
+
+1. Go to github.com
+2. Create a new repository (developers call them repos)
+3. Click Open on Desktop (under Quick Start)
+4. Clone the new repository to your Documents folder
+5. Done. You can now create new files in your repo, added existing files, etc.
+
+##Commit Changes in a Repository
+
+1. Do your work. And save it :)
+2. Open Github Desktop, click on the Repo you're working in, then click on the Uncommited Changes tab.
+3. Click on Uncommited Changes tab.
+4. Write a commit message (where it say Summary).
+5. Click on Commit to master.
+
+##Push To Github
+
+1. Open the repository you want to sync.
+2. Click Sync
